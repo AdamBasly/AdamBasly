@@ -25,8 +25,8 @@ if language==1:
             print("https://github.com/")
         elif eingabe=="Visual Studio Code" or eingabe=="visual studio code" or eingabe=="install coding application":
             print("https://code.visualstudio.com/")
-        elif eingabe=="eat something" or "etwas essen":
-            print("https://mama-pizza.de/")
+        elif eingabe=="abbrechen" or eingabe=="aufhören":
+            break
         eingabe=input("Was willst du jetzt tun?")
 elif language==2:
     print("You have choosed English")
@@ -50,7 +50,7 @@ elif language==2:
             print("https://github.com/")
         elif eingabe=="Visual Studio Code" or eingabe=="visual studio code" or eingabe=="install coding application":
             print("https://code.visualstudio.com/")
-        elif eingabe=="eat something" or "etwas essen":
-            print("https://mama-pizza.de/")
+        elif eingabe=="break" or eingabe=="abort":
+            break
         eingabe=input("What do you want to do?")
 print("Du hast die KI abgebrochen./You have aborted the KI.")
