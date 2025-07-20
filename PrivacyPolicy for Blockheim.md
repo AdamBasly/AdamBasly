@@ -79,6 +79,6 @@ Just contact the server owner (Professor_Adam) or reach out via Discord.
 
 For questions or requests related to your data, please reach out via:
 
-- In-game: `/msg Professor_Adam`
-- Discord: `@Adam#XXXX`
+- In-game: `/msg Professor_Adam_03836`
+- Discord: `professor_adam`
 - Email: `adambasly.gmx@gmail.com` 
