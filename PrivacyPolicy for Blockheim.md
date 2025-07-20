@@ -1,7 +1,3 @@
-Of course, Adam! Here's a clear, customizable **Privacy Policy** template tailored for your **Blockheim Minecraft server** or any online gaming project you run. It’s written to be player-friendly and compliant with standard practices. You can tweak or expand it as needed depending on your exact tools and data setup.
-
----
-
 ## 🔒 Blockheim Privacy Policy
 
 **Effective Date:** July 20, 2025
@@ -85,8 +81,4 @@ For questions or requests related to your data, please reach out via:
 
 - In-game: `/msg Professor_Adam`
 - Discord: `@Adam#XXXX`
-- Email: `blockheim-support@example.com` *(update this as needed)*
-
----
-
-Would you like a shorter version for server lists or MOTD? Or should I tailor it for a website, Discord, or launcher splash screen? Just say the word 😄
+- Email: `adambasly.gmx@gmail.com` 
